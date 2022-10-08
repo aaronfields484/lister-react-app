@@ -1,9 +1,9 @@
 import React from "react";
 
 //Local Components
-import Header from "./Header";
-import Footer from "./Footer";
-import Notes from "./Notes";
+import Header from "/Header";
+import Footer from "/Footer";
+import Notes from "/Notes";
 
 function App() {
 
